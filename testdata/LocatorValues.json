@@ -1,0 +1,9 @@
+{
+   "url":"https://testpages.herokuapp.com/styled/tag/dynamic-table.html",
+   "tableData":"//div[@class='centered']//details",
+   "tableDataTextBox":"//textarea[@id='jsondata']",
+   "refreshButton":"//button[@id='refreshtable']",
+   "tableRows":"table#dynamictable tr"
+
+
+}

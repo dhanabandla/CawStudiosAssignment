@@ -1,0 +1,17 @@
+{
+  "name": "playwrightcawstudiosassignement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.9.4"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.2"
+  }
+}
